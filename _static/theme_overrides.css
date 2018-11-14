@@ -12,3 +12,14 @@
   }
 
 }
+
+/* math equation number position  */
+span.eqno {
+  float: right;
+}
+
+/*font colors to identify rewrite text*/
+
+.rewrite{
+color:#bf360c
+}

@@ -18,7 +18,6 @@ Table of Contents:
    content/conclusion
    content/zreferences
 
-.. include:: content/introduction.rst
 
 .. Indices and tables
 .. ==================
