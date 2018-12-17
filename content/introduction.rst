@@ -1,6 +1,6 @@
-============
+************
 Introduction
-============
+************
 
 In the case of loop antennas, the dipole consists of a usually circular or rectangular current loop which acts like a coil and functions in response to the magnetic component of the electromagnetic field :cite:`rohner:2006`.
 

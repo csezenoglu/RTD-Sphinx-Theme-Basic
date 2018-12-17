@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Basic Template'
+project = u'Ceyhun\'s Read the Docs Basic Template'
 copyright = u'2018, Ceyhun Sezenoglu'
 author = 'Ceyhun Sezenoglu'
 
