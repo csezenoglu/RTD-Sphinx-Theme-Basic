@@ -10,5 +10,12 @@ Table of Contents:
 
    content/introduction
    content/chapter
-   content/zreferences
 
+.. toctree::
+   :caption: Appendices
+   :name: sec-appendix
+   :maxdepth: 1
+   
+   appendices/nomenclature
+   appendices/zreferences
+   dictionary/index
